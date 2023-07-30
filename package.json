@@ -1,0 +1,16 @@
+{
+  "name": "sd_img_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cover": "^0.2.9",
+    "node-fetch": "^3.3.1"
+  }
+}
